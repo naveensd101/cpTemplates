@@ -6,4 +6,5 @@
 4. seive.cpp
 5. debugTemplate.cpp
 6. pair_hash.cpp
+7. basic2.cpp (for one test case problems)
 
