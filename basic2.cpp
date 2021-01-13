@@ -4,10 +4,7 @@ typedef long long int ll;
 typedef unsigned long long llp;
 #define mod 1000000007
 #define deb(x) cerr << '\t' << "[" << #x << ": "<< x << "]\n";
-
-void solution(/*ll tc = 0*/) {
-}
-
+void solution(/*ll tc = 0*/)
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
@@ -20,3 +17,5 @@ int main() {
     return 0;
 }
 
+void solution(/*ll tc = 0*/) {
+}
