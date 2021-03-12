@@ -1,5 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
 vector<int> seive(int n) {
 /*Returns a vector<int> with all the prime numbers till n
  * - Time complexity: O(nlglg(n))
@@ -19,20 +17,3 @@ vector<int> seive(int n) {
 	return primes;
 }
 
-void solution(/*long long tc = 0*/) {
-	int n;
-	cin >> n;
-	vector<int> primes = seive(n);
-	for(int &i: primes) cout << i << ' ';
-	cout << '\n';
-}
-
-int main() {
-
-    long long tc = 1;
-    cin >> tc;
-    for (long long t = 0; t < tc; ++t) solution(/*t*/);
-
-
-    return 0;
-}
