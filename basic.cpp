@@ -12,15 +12,14 @@ numeric_limits<llp>::max();
 */
 void solution();
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    llp tc = 1;
-    cin >> tc;
-    for (llp t = 0; t < tc; ++t) {
-		//cout << "Case #" << tc+1 << ": ";
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	llp tc = 1;
+	cin >> tc;
+	for(llp t = 0; t < tc; ++t) {
+		//cout << "Case #" << tc + 1 << ": ";
 		solution();
 	}
-    return 0;
 }
 
 void solution() {

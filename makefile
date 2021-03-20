@@ -9,4 +9,4 @@ r:
 build:
 	python3 expander.py soln.cpp
 clean:
-	rm a.out
+	rm a.out makefile in.txt
