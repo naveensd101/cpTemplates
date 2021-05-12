@@ -3,9 +3,9 @@ using namespace std;
 typedef long long int ll;
 typedef unsigned long long llp;
 #define mod 1000000007
-#define deb(x) cerr << '\t' << "[" << #x << ": "<< x << "]\n";
-#define f first
-#define s second
+#define deb (x) cerr << '\t' << "[" << #x << ": "<< x << "]\n";
+#define fi first
+#define se second
 #define pb push_back
 /*
 numeric_limits<llp>::max();
@@ -19,7 +19,7 @@ int main() {
 	for(llp t = 0; t < tc; ++t) {
 		//cout << "Case #" << t + 1 << ": ";
 		solution();
-		cout << '\n';
+		cerr << "-------------------\n";
 	}
 }
 
