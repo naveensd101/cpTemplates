@@ -3,7 +3,7 @@ using namespace std;
 typedef long long int ll;
 typedef unsigned long long llp;
 #define mod 1000000007
-#define deb (x) cerr << '\t' << "[" << #x << ": "<< x << "]\n";
+#define deb(x) cerr << '\t' << "[" << #x << ": "<< x << "]\n";
 #define fi first
 #define se second
 #define pb push_back
