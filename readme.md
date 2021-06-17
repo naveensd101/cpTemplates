@@ -1,5 +1,7 @@
 # CP Templates
 
+---
+
 1. basic.cpp
 2. dfsBfs.cpp (dont use)
 3. prime_factorization.cpp
