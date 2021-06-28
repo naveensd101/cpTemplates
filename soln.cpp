@@ -19,6 +19,7 @@ int main() {
 		solution();
 		cerr << "-------------------\n";
 	}
+	return 0;
 }
 
 void solution() {
