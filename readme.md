@@ -2,11 +2,11 @@
 
 ---
 
-1. basic.cpp
+0. makefile
+1. soln.cpp (basic template)
 2. dfsBfs.cpp (dont use)
 3. prime_factorization.cpp
 4. seive.cpp
 5. debugTemplate.cpp
 6. pair_hash.cpp
-7. basic2.cpp (for one test case problems)
-
+8. big_interger.cpp
