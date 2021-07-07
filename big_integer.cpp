@@ -10,7 +10,7 @@ bool lessthan(string &a, string &b) {
 	if(a.size() < b.size()) return true;
 	else if(a.size() > b.size()) return false;
 	
-	for(int i = 0; i < (int)a.size(); ++i) {
+	for(int i = (int)a.size(); i >= 0; --i) {
 		if(a[i] == b[i]) continue;
 		else return a[i] < b[i];
 	}
