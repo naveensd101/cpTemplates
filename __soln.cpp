@@ -8,9 +8,6 @@ typedef unsigned long long llp;
 #define se second
 #define pb push_back
 
-void solution() {
-}
-
 int main() {
 	//ios_base::sync_with_stdio(false);
 	//cin.tie(NULL);
@@ -32,4 +29,7 @@ int main() {
  * [ ] Try again (15 min / 5 min)
  * [ ] Check editorial
  */
+
+void solution() {
+}
 
