@@ -2,7 +2,7 @@
 using namespace std;
 typedef long long int ll;
 typedef unsigned long long llp;
-#define mod 1000000007
+const int mod = 1e9+7;
 #define deb(x) cerr << '\t' << "[" << #x << ": "<< x << "]\n";
 #define fi first
 #define se second
@@ -21,15 +21,6 @@ int main() {
 	}
 	return 0;
 }
-
-/*
- * [ ] Read the question
- * [ ] Understand the question
- * [ ] Think (with paper) 15 min (use timer)
- * [ ] If no idea: take a break 3 min
- * [ ] Try again (15 min / 5 min)
- * [ ] Check editorial
- */
 
 void solution() {
 }
